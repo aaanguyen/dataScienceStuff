@@ -1,0 +1,617 @@
+,artist,album,track_number,track_name,track_id,popularity
+0,Taylor Swift,Lover,1,I Forgot That You Existed,43rA71bccXFGD4C8GOpIlN,83
+1,Taylor Swift,Lover,2,Cruel Summer,1BxfuPKGuaTgP7aM0Bbdwr,83
+2,Taylor Swift,Lover,3,Lover,1dGr1c8CrMLDpV6mPbImSI,89
+3,Taylor Swift,Lover,4,The Man,3RauEVgRgj1IuWdJ9fDs70,83
+4,Taylor Swift,Lover,5,The Archer,3pHkh7d0lzM2AldUtz2x37,80
+5,Taylor Swift,Lover,6,I Think He Knows,2YWtcWi3a83pdEg3Gif4Pd,79
+6,Taylor Swift,Lover,7,Miss Americana & The Heartbreak Prince,214nt20w5wOxJnY462klLw,79
+7,Taylor Swift,Lover,8,Paper Rings,4y5bvROuBDPr5fuwXbIBZR,80
+8,Taylor Swift,Lover,9,Cornelia Street,12M5uqx0ZuwkpLp5rJim1a,79
+9,Taylor Swift,Lover,10,Death By A Thousand Cuts,2dgFqt3w9xIQRjhPtwNk3D,78
+10,Taylor Swift,Lover,11,London Boy,1LLXZFeAHK9R4xUramtUKw,79
+11,Taylor Swift,Lover,12,Soon You’ll Get Better (feat. Dixie Chicks),4AYtqFyFbX0Xkc2wtcygTr,76
+12,Taylor Swift,Lover,13,False God,5hQSXkFgbxjZo9uCwd11so,77
+13,Taylor Swift,Lover,14,You Need To Calm Down,6RRNNciQGZEXnqk8SQ9yv5,88
+14,Taylor Swift,Lover,15,Afterglow,1SymEzIT3H8UZfibCs3TYi,78
+15,Taylor Swift,Lover,16,ME! (feat. Brendon Urie of Panic! At The Disco),2Rk4JlNc2TPmZe2af99d45,87
+16,Taylor Swift,Lover,17,It’s Nice To Have A Friend,1SmiQ65iSAbPto6gPFlBYm,75
+17,Taylor Swift,Lover,18,Daylight,1fzAuUVbzlhZ1lJAx9PtY6,76
+18,Post Malone,Hollywood's Bleeding,1,Hollywood's Bleeding,7sWRlDoTDX8geTR8zzr2vt,89
+19,Post Malone,Hollywood's Bleeding,2,Saint-Tropez,05mDaV9Vb3wrzjF6OPZnhq,90
+20,Post Malone,Hollywood's Bleeding,3,Enemies (feat. DaBaby),0Xek5rqai2jcOWCYWJfVCF,89
+21,Post Malone,Hollywood's Bleeding,4,Allergic,1YscJ7yVTlFxW3eF6pv5ba,82
+22,Post Malone,Hollywood's Bleeding,5,A Thousand Bad Times,2J0NXdHr6MYvKDSxB7k3V2,84
+23,Post Malone,Hollywood's Bleeding,6,Circles,21jGcNKet2qwijlDFuPiPb,100
+24,Post Malone,Hollywood's Bleeding,7,Die For Me (feat. Future & Halsey),2C6WXnmZ66tHhHlnvwePiK,86
+25,Post Malone,Hollywood's Bleeding,8,On The Road (feat. Meek Mill & Lil Baby),12Fkyg9lpmaz2zmKOfw2Y2,86
+26,Post Malone,Hollywood's Bleeding,9,Take What You Want (feat. Ozzy Osbourne & Travis Scott),7CZyCXKG6d5ALeq41sLzbw,92
+27,Post Malone,Hollywood's Bleeding,10,I'm Gonna Be,1ckLp8lCl8LipXI0ypX72m,82
+28,Post Malone,Hollywood's Bleeding,11,Staring At The Sun (feat. SZA),5KE9b4x7Zj2A8XtbkqhqTe,82
+29,Post Malone,Hollywood's Bleeding,12,Sunflower - Spider-Man: Into the Spider-Verse,0RiRZpuVRbi7oqRdSMwhQY,88
+30,Post Malone,Hollywood's Bleeding,13,Internet,0KAzP1Rbp0Vz5pw8i1KDDI,79
+31,Post Malone,Hollywood's Bleeding,14,Goodbyes (feat. Young Thug),0t3ZvGKlmYmVsDzBJAXK8C,94
+32,Post Malone,Hollywood's Bleeding,15,Myself,2cvOfKHOHgwQlLiuLKP2xR,82
+33,Post Malone,Hollywood's Bleeding,16,I Know,6b2mfHMqWCA74XmUuVJm8r,80
+34,Post Malone,Hollywood's Bleeding,17,Wow.,7xQAfvXzm3AkraOtGPWIZg,89
+35,Kanye West,JESUS IS KING,1,Every Hour,1WnqWQcWcuQbVzgE7ecfCY,83
+36,Kanye West,JESUS IS KING,2,Selah,39JRmdKFka1Oe09FoOCPI4,85
+37,Kanye West,JESUS IS KING,3,Follow God,2QpGZOhTCHHiKmpSO9FW4h,93
+38,Kanye West,JESUS IS KING,4,Closed On Sunday,3JWiDGQX2eTlFvKj3Yssj3,86
+39,Kanye West,JESUS IS KING,5,On God,2SasoXZyv82yYgHiVOvxQn,86
+40,Kanye West,JESUS IS KING,6,Everything We Need,24bnCCysWnbNRNUT4LpHcP,85
+41,Kanye West,JESUS IS KING,7,Water,454Epa1vrCGFddHXKyC1kb,83
+42,Kanye West,JESUS IS KING,8,God Is,6xRWoYwfwIKnT8bQGzKbxR,83
+43,Kanye West,JESUS IS KING,9,Hands On,7r6aR2f57resC5r93LwMfK,82
+44,Kanye West,JESUS IS KING,10,Use This Gospel,0oPOuDmmkVp3h6puekhs6P,85
+45,Kanye West,JESUS IS KING,11,Jesus Is Lord,7sBgFMWqDWQgrsNSpIBoe8,81
+46,Luke Combs,What You See Is What You Get,1,Beer Never Broke My Heart,3RzcoFkZ0AOp2nH71jP504,75
+47,Luke Combs,What You See Is What You Get,2,Refrigerator Door,1rLhKgfBTu7qGEz98IpQxo,72
+48,Luke Combs,What You See Is What You Get,3,Even Though I'm Leaving,5aZQrb2TXWEh9uZR4HEY3r,74
+49,Luke Combs,What You See Is What You Get,4,Lovin' On You,2AxR3AIQxTf6xjxrb9UkH2,72
+50,Luke Combs,What You See Is What You Get,5,Moon Over Mexico,54QmQd9Nc2EUDha6dD8V9X,71
+51,Luke Combs,What You See Is What You Get,6,"1, 2 Many",6pgN3d6oBrhmrSAKBfWNsf,73
+52,Luke Combs,What You See Is What You Get,7,Blue Collar Boys,0KtxdSPi1ZbDc3wwD2IGF0,73
+53,Luke Combs,What You See Is What You Get,8,New Every Day,5NwCPmFHJAoKe0PSw2ltJD,72
+54,Luke Combs,What You See Is What You Get,9,Reasons,4T6QFouj6rIQObxgwt9ELL,73
+55,Luke Combs,What You See Is What You Get,10,Every Little Bit Helps,3APKvzQ6xiu7Fcu9Y1EKni,72
+56,Luke Combs,What You See Is What You Get,11,Dear Today,7j3aRaky6Xr1fpuqmB3s4w,73
+57,Luke Combs,What You See Is What You Get,12,What You See Is What You Get,1xIgz2QjA85ZpXiIoj6mMo,72
+58,Luke Combs,What You See Is What You Get,13,Does To Me (feat. Eric Church),17TSJlshgQ5zu0e8dedAla,75
+59,Luke Combs,What You See Is What You Get,14,Angels Workin' Overtime,7dRPUAYfMGZmZ7L3fZAJKp,71
+60,Luke Combs,What You See Is What You Get,15,All Over Again,0bNVNlZSHj3xSuMJWfzxuT,73
+61,Luke Combs,What You See Is What You Get,16,Nothing Like You,5ppDdMho96v8gdDm7HKEbK,73
+62,Luke Combs,What You See Is What You Get,17,Better Together,1tSGw3h54aHModEHHL1HGK,76
+63,Khalid,Free Spirit,1,Intro,5BfMJ6iytQnu1r7iiCYSXe,66
+64,Khalid,Free Spirit,2,Bad Luck,2vsuel3g4zaLYSOY0mOMbi,72
+65,Khalid,Free Spirit,3,My Bad,2XKFnwB6djxrJCjR3PdeRb,70
+66,Khalid,Free Spirit,4,Better,339Y993TrFyWyO438be0RY,70
+67,Khalid,Free Spirit,5,Talk (feat. Disclosure),6TqXcAFInzjp0bODyvrWEq,84
+68,Khalid,Free Spirit,6,Right Back,5A1w94uzc1kO1Zhe8WWxC3,72
+69,Khalid,Free Spirit,7,Don't Pretend (feat. SAFE),1E6DEDWDKHoOW0fcFuDghV,70
+70,Khalid,Free Spirit,8,Paradise,6fOOKqQWcSy33ApU1wqkkW,69
+71,Khalid,Free Spirit,9,Hundred,0HEckRWFSknIupbGzavk5d,70
+72,Khalid,Free Spirit,10,Outta My Head (with John Mayer),09oZ9eXQ2fo6YDrPzJqAoP,78
+73,Khalid,Free Spirit,11,Free Spirit,2kAIpGWnlFLQh48iut6Zzq,75
+74,Khalid,Free Spirit,12,Twenty One,1NgCWYuBLfqBDA3b8MgSVU,69
+75,Khalid,Free Spirit,13,Bluffin',42w7pX3r1TpLR0i55Ek5ND,67
+76,Khalid,Free Spirit,14,Self,1WqLtczgKdbHFHhefOU0y7,66
+77,Khalid,Free Spirit,15,Alive,12VqHHz4wvVcnEdSivjLeQ,69
+78,Khalid,Free Spirit,16,Heaven,0Hgqglypzt6Qs5Duqskcqs,67
+79,Khalid,Free Spirit,17,Saturday Nights,1fHRzxbts9A8J1ergDe7Kz,71
+80,Jonas Brothers,Happiness Begins,1,Sucker,22vgEDb5hykfaTwLuskFGD,81
+81,Jonas Brothers,Happiness Begins,2,Cool,7yfi8B8opXjnRh4VZnOkz9,76
+82,Jonas Brothers,Happiness Begins,3,Only Human,0DiDStADDVh3SvAsoJAFMk,88
+83,Jonas Brothers,Happiness Begins,4,I Believe,1vYh9x8UmFTLbXiizk9Qc5,75
+84,Jonas Brothers,Happiness Begins,5,Used To Be,2n6red10oCd6YhlEUp6jXy,67
+85,Jonas Brothers,Happiness Begins,6,Every Single Time,76F54HHrw84yqAYqrAJkbr,65
+86,Jonas Brothers,Happiness Begins,7,Don't Throw it Away,24eP9hGnGR6RCQvllQVkCm,65
+87,Jonas Brothers,Happiness Begins,8,Love Her,2hgk8iKN9UdoM4ILlJ9F5N,69
+88,Jonas Brothers,Happiness Begins,9,Happy When I'm Sad,6DibqiBTKMob2SjBwKqRfS,63
+89,Jonas Brothers,Happiness Begins,10,Trust,5MoU7TaAvgBa8W0XVwXAd7,63
+90,Jonas Brothers,Happiness Begins,11,Strangers,5md87aD3pGXRghKUbZdyh8,66
+91,Jonas Brothers,Happiness Begins,12,Hesitate,7fiFJADUcHwTdYLmnZeLAy,68
+92,Jonas Brothers,Happiness Begins,13,Rollercoaster,7dxKdQC9Vo1hDxIUnt1z0Q,71
+93,Jonas Brothers,Happiness Begins,14,Comeback,064tgRK6FYBwikCdxaHFV1,65
+94,BTS,MAP OF THE SOUL : PERSONA,1,Intro : Persona,2isSdmQfVv32j2haL6hk9x,71
+95,BTS,MAP OF THE SOUL : PERSONA,2,Boy With Luv (feat. Halsey),5KawlOMHjWeUjQtnuRs22c,87
+96,BTS,MAP OF THE SOUL : PERSONA,3,Mikrokosmos,5hnbE5BF2e8BCk9OMR1UVC,76
+97,BTS,MAP OF THE SOUL : PERSONA,4,Make It Right,6KUE0HSSudAp9AOycaF6SH,78
+98,BTS,MAP OF THE SOUL : PERSONA,5,HOME,7lthOBXNue2IvedLRfkod8,76
+99,BTS,MAP OF THE SOUL : PERSONA,6,Jamais Vu,0eeeyCAGnGZInPtpkdYiPa,73
+100,BTS,MAP OF THE SOUL : PERSONA,7,Dionysus,6JdS5rJvJaRA7B1tcm7kxZ,75
+101,Shawn Mendes,Shawn Mendes (Deluxe),1,Señorita,6v3KW9xbzN5yKLt9YKDYA2,89
+102,Shawn Mendes,Shawn Mendes (Deluxe),2,Lost In Japan,0TFpGNlWslRQO4oyTtJq6K,58
+103,Shawn Mendes,Shawn Mendes (Deluxe),3,If I Can't Have You,2bT1PH7Cw3J9p3t7nlXCdh,79
+104,Shawn Mendes,Shawn Mendes (Deluxe),4,In My Blood,2SFnIqRWyHt9MUNeXkykii,56
+105,Shawn Mendes,Shawn Mendes (Deluxe),5,Fallin' All In You,49u62ZMTXz91U8V4uXaJ4q,58
+106,Shawn Mendes,Shawn Mendes (Deluxe),6,Where Were You In The Morning?,2UCYrYM83sowbj1OG6qsVn,56
+107,Shawn Mendes,Shawn Mendes (Deluxe),7,Nervous,3J3AQ7NSo0p3RX8U2gnC4v,55
+108,Shawn Mendes,Shawn Mendes (Deluxe),8,Like To Be You (feat. Julia Michaels),5VQBZPF4L2VrR7aMfAdRq3,55
+109,Shawn Mendes,Shawn Mendes (Deluxe),9,Particular Taste,3isPczLtjVuERmr5hpSvIl,54
+110,Shawn Mendes,Shawn Mendes (Deluxe),10,Because I Had You,1RL042HeY9ln1Bwu2ODyJJ,54
+111,Shawn Mendes,Shawn Mendes (Deluxe),11,Why,6oZk0lzaP7RcwKjyZrIJBV,54
+112,Shawn Mendes,Shawn Mendes (Deluxe),12,Youth (feat. Khalid),5cWIKVqSpJQiRmG59sfii5,54
+113,Shawn Mendes,Shawn Mendes (Deluxe),13,Perfectly Wrong,1UWbBNuBIB9wYg82aaWRvN,54
+114,Shawn Mendes,Shawn Mendes (Deluxe),14,Mutual,2d3zTjEWyOzKDPOLjDSRlR,54
+115,Shawn Mendes,Shawn Mendes (Deluxe),15,Queen,2eKH2typXktOBTgWrOHnni,52
+116,Shawn Mendes,Shawn Mendes (Deluxe),16,When You're Ready,2s6BVlw41U03QdFaMeT5FQ,53
+117,Ariana Grande,"thank u, next",1,imagine,39LmTF9RgyakzSYX8txrow,78
+118,Ariana Grande,"thank u, next",2,needy,1TEL6MlSSVLSdhOSddidlJ,78
+119,Ariana Grande,"thank u, next",3,NASA,4uTvPEr01pjTbZgl7jcKBD,78
+120,Ariana Grande,"thank u, next",4,bloodline,2hloaUoRonYssMuqLCBLTX,76
+121,Ariana Grande,"thank u, next",5,fake smile,3wFLWP0FcIqHK1wb1CPthQ,75
+122,Ariana Grande,"thank u, next",6,bad idea,5Il6Oe7lr5XM7A0cWbVQtr,75
+123,Ariana Grande,"thank u, next",7,make up,27356GVuMPFWiJSZCragoM,72
+124,Ariana Grande,"thank u, next",8,ghostin,2vdBo4ALPYbHRUPKgtE5iC,75
+125,Ariana Grande,"thank u, next",9,in my head,4T652DlATVHe0jdLKaN3Bw,75
+126,Ariana Grande,"thank u, next",10,7 rings,6ocbgoVGwYJhOv1GgI9NsF,90
+127,Ariana Grande,"thank u, next",11,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,88
+128,Ariana Grande,"thank u, next",12,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,85
+129,Lil Tecca,We Love You Tecca,1,Ransom,6EOKwHETwSkZ9gW2b6ASE0,78
+130,Lil Tecca,We Love You Tecca,2,Shots,5xjei7JnROsAzLY2a7RdZU,68
+131,Lil Tecca,We Love You Tecca,3,Sidenote,17rhhpDU4Da35Vk9jXeHS0,57
+132,Lil Tecca,We Love You Tecca,4,Did It Again,6alCTRgBPoeAFi2N4il9Q4,69
+133,Lil Tecca,We Love You Tecca,5,Out Of Luck,2ZGvw7BpnUHG89yt8fNxH7,63
+134,Lil Tecca,We Love You Tecca,6,"Left, Right",0HJvoOkpflwYJb21VkTmGD,60
+135,Lil Tecca,We Love You Tecca,7,Bossanova,1FUVCa49nKsPRuznGVrIFY,59
+136,Lil Tecca,We Love You Tecca,8,Amigo,6qWSHYcZEvE0MIcH2WmB23,62
+137,Lil Tecca,We Love You Tecca,9,Phenom,56Jd7sjIDm2wT3T9tyMiX7,53
+138,Lil Tecca,We Love You Tecca,10,Weatherman,2bc19Bhbt9FCkvgWPT1IHL,53
+139,Lil Tecca,We Love You Tecca,11,DUI,7Jl7a1UvWslTea6gA4vTjw,55
+140,Lil Tecca,We Love You Tecca,12,Love Me,3TLwAp3uX1nKsVxrDhNPOL,68
+141,Lil Tecca,We Love You Tecca,13,Molly Girl,58neYWG7UyoQI0IC8lhfP5,59
+142,Lil Tecca,We Love You Tecca,14,The Score,1TDPszDpH1AZKlAPhdL4gH,54
+143,Lil Tecca,We Love You Tecca,15,Senorita,3eRUV5XlsGW72Q7hcneLpY,52
+144,Lil Tecca,We Love You Tecca,16,Count Me Out,3nZxBgflsmuhfRQ74Q9Mbd,58
+145,Lil Tecca,We Love You Tecca,17,Ransom (with Juice WRLD) - Remix,0DZJACISivjWjscIp5Kg1q,68
+146,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",1,!!!!!!!,0rQtoQXQfwpDW0c7Fw1NeM,18
+147,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2,bad guy,2Fxmhks0bxGSBdJ92vM42m,96
+148,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",3,xanny,4QIo4oxwzzafcBWkKjDpXY,82
+149,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",4,you should see me in a crown,3XF5xLJHOQQRbWya6hBp7d,85
+150,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",5,all the good girls go to hell,6IRdLKIyS4p7XNiP8r6rsx,86
+151,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",6,wish you were gay,3Fj47GNK2kUF0uaEDgXLaD,86
+152,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",7,when the party's over,43zdsphuZLzwA9k4DJhU0I,90
+153,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",8,8,6X29iaaazwho3ab7GNue5r,79
+154,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",9,my strange addiction,3Tc57t9l2O8FwQZtQOvPXK,82
+155,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",10,bury a friend,4SSnFejRGlZikf02HLewEF,87
+156,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",11,ilomilo,7qEKqBCD2vE5vIBsrUitpD,81
+157,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",12,listen before i go,0tMSssfxAL2oV8Vri0mFHE,81
+158,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",13,i love you,6CcJMwBtXByIz4zQLzFkKc,86
+159,Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",14,goodbye,3LgWsmilsrWXiPYQFRD0T7,77
+160,YoungBoy Never Broke Again,AI YoungBoy 2,1,Carter Son,0QVvkAOstRG26pVYN95CeL,76
+161,YoungBoy Never Broke Again,AI YoungBoy 2,2,Time I'm On,6vWzkhoAp1SF4PEJ0iLKYQ,73
+162,YoungBoy Never Broke Again,AI YoungBoy 2,3,Hot Now,3eeyKNIBrt5TH4y0y3QkOu,80
+163,YoungBoy Never Broke Again,AI YoungBoy 2,4,Seeming Like It,0eGvris9sYZMOsTMHT20Td,72
+164,YoungBoy Never Broke Again,AI YoungBoy 2,5,Self Control,4vSoyDfL0uZyUoWu5NNNsQ,82
+165,YoungBoy Never Broke Again,AI YoungBoy 2,6,Make No Sense,6klLvorLoo1sxvZcjJIY8I,86
+166,YoungBoy Never Broke Again,AI YoungBoy 2,7,Rich As Hell,5A6tFAdihqILHJrWuR6wD4,74
+167,YoungBoy Never Broke Again,AI YoungBoy 2,8,Slime Mentality,2m9axSosHP92250FvnnobM,74
+168,YoungBoy Never Broke Again,AI YoungBoy 2,9,Head Blown,0qmWrPu7fiZSXvWfCZxcKl,72
+169,YoungBoy Never Broke Again,AI YoungBoy 2,10,Ranada,4XlyD28tQ6qdqNS2BkE1AF,75
+170,YoungBoy Never Broke Again,AI YoungBoy 2,11,Lonely Child,6xqZi5JTTk6XIMLvy7w5JJ,76
+171,YoungBoy Never Broke Again,AI YoungBoy 2,12,Gang Shit,0igHhcoLY0yHVPHiPvGuXx,72
+172,YoungBoy Never Broke Again,AI YoungBoy 2,13,Rebel's Kick It,3hYBu3LRhapDItoL2R5aK2,73
+173,YoungBoy Never Broke Again,AI YoungBoy 2,14,Outta Here Safe (feat. Quando Rondo and NoCap),2qU7t8cV1fMVbDTUnZsxTV,70
+174,YoungBoy Never Broke Again,AI YoungBoy 2,15,In Control,5IdAcHb4cwtexqMlOojWhR,75
+175,YoungBoy Never Broke Again,AI YoungBoy 2,16,I Don't Know,58H5750cX5LquhcJ7TCHiO,70
+176,YoungBoy Never Broke Again,AI YoungBoy 2,17,Where The Love At,540u3cwMqJ7IJrhQ9ikcON,72
+177,YoungBoy Never Broke Again,AI YoungBoy 2,18,Free Time,3SiNNoV06PfsTbqMCwyBED,71
+178,Summer Walker,Over It,1,Over It,0csmcZqM3uTKfjxehw0Lw2,73
+179,Summer Walker,Over It,2,Body,7vxLj7MREliG5i5vSnqSVr,75
+180,Summer Walker,Over It,3,Playing Games (with Bryson Tiller) - Extended Version,2xyx0o4xNOLLjBSbOOdcbA,84
+181,Summer Walker,Over It,4,Drunk Dialing...LODT,0pzWCDSuVRX7m95EFOxVa0,74
+182,Summer Walker,Over It,5,Come Thru (with Usher),3TTMUI5dFcbeNSDTTDY9M8,83
+183,Summer Walker,Over It,6,Potential,4YNrBVo8fv6qiTNwHLVDai,72
+184,Summer Walker,Over It,7,Fun Girl,78mXeWyY9ZEqOCkTl3nGfI,72
+185,Summer Walker,Over It,8,Tonight,1qC6px1TOZgQFoTSOFUaBr,73
+186,Summer Walker,Over It,9,Me,7pQAGG3OhXuYZrEh8nUCbi,71
+187,Summer Walker,Over It,10,Like It (with 6LACK),4CNzuSQoL5jgCxzYmuMvcz,74
+188,Summer Walker,Over It,11,Just Might (with PARTYNEXTDOOR),43IMaycr34ZR5kS8mlL5hH,74
+189,Summer Walker,Over It,12,Stretch You Out (feat. A Boogie wit da Hoodie),4Qxn47gWPSucovKrMyRf1z,79
+190,Summer Walker,Over It,13,Off Of You,0Q71rl68P5r53JkUpxDDto,72
+191,Summer Walker,Over It,14,Anna Mae,09OeD94T28n7ku4RqPa6wZ,71
+192,Summer Walker,Over It,15,I'll Kill You (feat. Jhené Aiko),7EkiMl81fUHVwpItgtzI4r,78
+193,Summer Walker,Over It,16,Nobody Else,6eipQrmTw1N3nUfgLlEa2R,71
+194,Summer Walker,Over It,17,Playing Games,4hWgC5BV5M7EtTleKVXNxw,80
+195,Summer Walker,Over It,18,Girls Need Love (with Drake) - Remix,1axArDrl7n4M3QZMNN0XMs,71
+196,DaBaby,KIRK,1,INTRO,77KMttn3Lic7ZQKDlPqp8v,82
+197,DaBaby,KIRK,2,OFF THE RIP,3e39X4Q74yJzsYUEeyf4ws,75
+198,DaBaby,KIRK,3,BOP,6Ozh9Ok6h4Oi1wUSLtBseN,89
+199,DaBaby,KIRK,4,VIBEZ,0fySG6A6qLE8IvDpayb5bM,88
+200,DaBaby,KIRK,5,POP STAR (feat. Kevin Gates),2TsD9kSbgYx5fSNRsoNURE,76
+201,DaBaby,KIRK,6,"GOSPEL (feat. Chance The Rapper, Gucci Mane & YK Osiris)",0WoAkdHmgPmEXfiBox1flk,75
+202,DaBaby,KIRK,7,iPHONE (with Nicki Minaj),3GX2hFAekmSduZzcS52OnR,75
+203,DaBaby,KIRK,8,TOES (feat. Lil Baby & Moneybagg Yo),2FvD20Z8aoWIePi7PoN8sG,81
+204,DaBaby,KIRK,9,REALLY (feat. Stunna 4 Vegas),7vxGCUPJhe0fXfBkwVPFcP,73
+205,DaBaby,KIRK,10,PROLLY HEARD,0O7mJ0noFBLn8MMUJrFaF1,72
+206,DaBaby,KIRK,11,RAW SHIT (feat. Migos),1CCDIow4pPYyJYzhtTUYz2,81
+207,DaBaby,KIRK,12,THERE HE GO,0pegcONe6MuDQRoPCtCBRf,72
+208,DaBaby,KIRK,13,XXL,4LH1gsNA3wUS6QKkGZoJN8,74
+209,Young Thug,So Much Fun,1,Just How It Is,5KYhIFNTp4VQUqlsbLWTTu,70
+210,Young Thug,So Much Fun,2,Sup Mate (feat. Future),0zNHMc1cGKe4MO5rtGtKRh,70
+211,Young Thug,So Much Fun,3,Ecstasy (feat. Machine Gun Kelly),1yBbxDXEfr8boXM1ubvBHi,67
+212,Young Thug,So Much Fun,4,Hot (feat. Gunna),5Z8HZM6iQMhhqyPcCGY5g9,88
+213,Young Thug,So Much Fun,5,Light It Up,41mzryVlFLlz6b1BCtJAjx,67
+214,Young Thug,So Much Fun,6,Surf (feat. Gunna),6igOR5QCn09zAVF2ikZjsV,73
+215,Young Thug,So Much Fun,7,Bad Bad Bad (feat. Lil Baby),1GeNui6m825V8jP4uKiIaH,86
+216,Young Thug,So Much Fun,8,Lil Baby,1MGWgLxUXDodD8Tw8TFppN,67
+217,Young Thug,So Much Fun,9,What's the Move (feat. Lil Uzi Vert),3pTScODwk9tggZzmuH6xDY,78
+218,Young Thug,So Much Fun,10,I Bought Her (feat. Lil Duke),7HPUVxJdwGMujRmstBlvp7,63
+219,Young Thug,So Much Fun,11,Jumped Out the Window,0o7Zga5TFy35CcivyPDO5m,65
+220,Young Thug,So Much Fun,12,I'm Scared (feat. 21 Savage & Doe Boy),3uW1lWgdTN494vIxu3R9Or,67
+221,Young Thug,So Much Fun,13,Cartier Gucci Scarf (feat. Lil Duke),3TWSar7EBNWZVeEWqDSjpw,63
+222,Young Thug,So Much Fun,14,Big Tipper (feat. Lil Keed),2lcJWXNJUjjL3ycoZrpU2g,66
+223,Young Thug,So Much Fun,15,Pussy,5ZzQZcpwW7IyhKopLuoiwn,61
+224,Young Thug,So Much Fun,16,Circle Of Bosses (feat. Quavo),5UmRDaMPkV6g2HVMWoKx8u,68
+225,Young Thug,So Much Fun,17,Mannequin Challenge (feat. Juice WRLD),5TnLXSd4h6G06Fbt2ApOpa,72
+226,Young Thug,So Much Fun,18,Boy Back (feat. NAV),369g3Kv6MXsl0wn7PNtWvO,67
+227,Young Thug,So Much Fun,19,The London (feat. J. Cole & Travis Scott),3s4mrPrEFFPF0LmAfutW0n,83
+228,Ed Sheeran,No.6 Collaborations Project,1,Beautiful People (feat. Khalid),70eFcWOvlMObDhURTqT4Fv,87
+229,Ed Sheeran,No.6 Collaborations Project,2,South of the Border (feat. Camila Cabello & Cardi B),4vUmTMuQqjdnvlZmAH61Qk,93
+230,Ed Sheeran,No.6 Collaborations Project,3,Cross Me (feat. Chance the Rapper & PnB Rock),4wuCQX7JvAZLlrcmH4AeZF,76
+231,Ed Sheeran,No.6 Collaborations Project,4,Take Me Back to London (feat. Stormzy),1AI7UPw3fgwAFkvAlZWhE0,82
+232,Ed Sheeran,No.6 Collaborations Project,5,Best Part of Me (feat. YEBBA),0VsGaRXR5WAzpu51unJTis,75
+233,Ed Sheeran,No.6 Collaborations Project,6,I Don't Care (with Justin Bieber),0hVXuCcriWRGvwMV1r5Yn9,85
+234,Ed Sheeran,No.6 Collaborations Project,7,Antisocial (with Travis Scott),1DhRbox3xkceP64k3JeYfW,80
+235,Ed Sheeran,No.6 Collaborations Project,8,Remember The Name (feat. Eminem & 50 Cent),0AtP8EkGPn6SwxKDaUuXec,80
+236,Ed Sheeran,No.6 Collaborations Project,9,Feels (feat. Young Thug & J Hus),1Bdptrvb7nQkq8kCw3siE9,72
+237,Ed Sheeran,No.6 Collaborations Project,10,Put It All on Me (feat. Ella Mai),5T03itPFOPGGkvVPvPiyla,71
+238,Ed Sheeran,No.6 Collaborations Project,11,Nothing On You (feat. Paulo Londra & Dave),2qRN7PWiHRLprw4FpDeI9N,77
+239,Ed Sheeran,No.6 Collaborations Project,12,I Don't Want Your Money (feat. H.E.R.),3FHXUqaUer9o231Je1zxIN,72
+240,Ed Sheeran,No.6 Collaborations Project,13,1000 Nights (feat. Meek Mill & A Boogie Wit da Hoodie),4vIKzWqtn44umal5jXq4wE,73
+241,Ed Sheeran,No.6 Collaborations Project,14,Way To Break My Heart (feat. Skrillex),5d1rmWWF1725tnYjq6rMDB,70
+242,Ed Sheeran,No.6 Collaborations Project,15,BLOW (with Chris Stapleton & Bruno Mars),7hvO2qCwJVZxiyoA7c9i5d,70
+243,Doja Cat,Hot Pink,1,Cyber Sex,1ghvzmzpx2nnrbx7wtpMgo,73
+244,Doja Cat,Hot Pink,2,Won't Bite (feat. Smino),7k51pIqTGEHHZOnpI11Qq2,67
+245,Doja Cat,Hot Pink,3,Rules,1TMWcbxL5YF8rKsFHv5hAP,69
+246,Doja Cat,Hot Pink,4,Bottom Bitch,1L0z2CQKrKJ2spYSMkfim9,66
+247,Doja Cat,Hot Pink,5,Say So,3Dv1eDb0MEgF93GpLXlucZ,69
+248,Doja Cat,Hot Pink,6,Like That (feat. Gucci Mane),4EivmOT13NMpNSfTKn9p4s,72
+249,Doja Cat,Hot Pink,7,Talk Dirty,1j6NZFHrpc09YmEZuSlmwf,65
+250,Doja Cat,Hot Pink,8,Addiction,2OAcH9SD8ehxuG0tWNe0cU,65
+251,Doja Cat,Hot Pink,9,Streets,60ynsPSSKe6O3sfwRnIBRf,65
+252,Doja Cat,Hot Pink,10,Shine,5xIDCYGTyLaDkiaaulVPcJ,64
+253,Doja Cat,Hot Pink,11,Better Than Me,1ZiJGdjNtvgngdT3wRKVqS,63
+254,Doja Cat,Hot Pink,12,Juicy,7f5trao56t7sB7f14QDTmp,70
+255,Travis Scott,ASTROWORLD,1,STARGAZING,7wBJfHzpfI3032CSD7CE2m,82
+256,Travis Scott,ASTROWORLD,2,CAROUSEL,7KZ5MMVgBVox9ycroB2UrI,73
+257,Travis Scott,ASTROWORLD,3,SICKO MODE,2xLMifQCjDGFmkHkpNLD9h,89
+258,Travis Scott,ASTROWORLD,4,R.I.P. SCREW,4SZepBIPDRwPaHIjAKwRDb,74
+259,Travis Scott,ASTROWORLD,5,STOP TRYING TO BE GOD,1xYpVRspgaLxdJLOTQkTjg,75
+260,Travis Scott,ASTROWORLD,6,NO BYSTANDERS,6OaVWaGfhXn70ZJfdVcabn,78
+261,Travis Scott,ASTROWORLD,7,SKELETONS,6NMtzpDQBTOfJwMzgMX0zl,74
+262,Travis Scott,ASTROWORLD,8,WAKE UP,20MuVazoNMv6xjKPnRFOxG,80
+263,Travis Scott,ASTROWORLD,9,5% TINT,11kDth1aKUEUMq9r1pqyds,74
+264,Travis Scott,ASTROWORLD,10,NC-17,6BJbOXDlgVAXSaq6wYFYT2,72
+265,Travis Scott,ASTROWORLD,11,ASTROTHUNDER,4MXhiYIRDMGAuvZc5IFTwC,75
+266,Travis Scott,ASTROWORLD,12,YOSEMITE,7lAK3oHbfEnvUQWosrMMpR,82
+267,Travis Scott,ASTROWORLD,13,CAN'T SAY,27a1mYSG5tYg7dmEjWBcmL,81
+268,Travis Scott,ASTROWORLD,14,WHO? WHAT!,4KYS9GK68yeuUJ8vJfPxrq,73
+269,Travis Scott,ASTROWORLD,15,BUTTERFLY EFFECT,2cYqizR4lgvp4Qu6IQ3qGN,85
+270,Travis Scott,ASTROWORLD,16,HOUSTONFORNICATION,58TaFP5j5i9swOf584yon2,76
+271,Travis Scott,ASTROWORLD,17,COFFEE BEAN,6vnfObZ4Ys70SBAtti1xZ9,73
+272,Ariana Grande,"thank u, next",1,imagine,39LmTF9RgyakzSYX8txrow,78
+273,Ariana Grande,"thank u, next",2,needy,1TEL6MlSSVLSdhOSddidlJ,78
+274,Ariana Grande,"thank u, next",3,NASA,4uTvPEr01pjTbZgl7jcKBD,78
+275,Ariana Grande,"thank u, next",4,bloodline,2hloaUoRonYssMuqLCBLTX,76
+276,Ariana Grande,"thank u, next",5,fake smile,3wFLWP0FcIqHK1wb1CPthQ,75
+277,Ariana Grande,"thank u, next",6,bad idea,5Il6Oe7lr5XM7A0cWbVQtr,75
+278,Ariana Grande,"thank u, next",7,make up,27356GVuMPFWiJSZCragoM,72
+279,Ariana Grande,"thank u, next",8,ghostin,2vdBo4ALPYbHRUPKgtE5iC,75
+280,Ariana Grande,"thank u, next",9,in my head,4T652DlATVHe0jdLKaN3Bw,75
+281,Ariana Grande,"thank u, next",10,7 rings,6ocbgoVGwYJhOv1GgI9NsF,90
+282,Ariana Grande,"thank u, next",11,"thank u, next",3e9HZxeyfWwjeyPAMmWSSQ,88
+283,Ariana Grande,"thank u, next",12,"break up with your girlfriend, i'm bored",4kV4N9D1iKVxx1KLvtTpjS,85
+284,Juice WRLD,Goodbye & Good Riddance,1,Intro,7LoWAhcGbxSkT6trTqXQR6,56
+285,Juice WRLD,Goodbye & Good Riddance,2,All Girls Are The Same,4VXIryQMWpIdGgYR4TrjT1,83
+286,Juice WRLD,Goodbye & Good Riddance,3,Lucid Dreams,285pBltuF7vW8TeWk8hdRR,88
+287,Juice WRLD,Goodbye & Good Riddance,4,Wasted (feat. Lil Uzi Vert),1a7WZZZH7LzyvorhpOJFTe,77
+288,Juice WRLD,Goodbye & Good Riddance,5,Armed And Dangerous,5wujBwqG7INdStqGd4tRMX,82
+289,Juice WRLD,Goodbye & Good Riddance,6,Black & White,1fCeXjoRExPP2qwSBh2aST,78
+290,Juice WRLD,Goodbye & Good Riddance,7,Lean Wit Me,3oDkdAySo1VQQG0ptV7uwa,80
+291,Juice WRLD,Goodbye & Good Riddance,8,I'll Be Fine,0INehbMZOFPnaPBAjK97i3,70
+292,Juice WRLD,Goodbye & Good Riddance,9,Used To,0WZFN4E8HrmGUU0EMyKQ8c,69
+293,Juice WRLD,Goodbye & Good Riddance,10,Candles,1wa6QQsdSE3X2GbRljGpFk,71
+294,Juice WRLD,Goodbye & Good Riddance,11,Scared Of Love,49QVOdWgGagzLrThkIqtK6,71
+295,Juice WRLD,Goodbye & Good Riddance,12,Hurt Me,3XRQT7EoS4U87rUuJwg5P3,70
+296,Juice WRLD,Goodbye & Good Riddance,13,I'm Still,19m3E0nMZobyA93AxMXC32,68
+297,Juice WRLD,Goodbye & Good Riddance,14,End Of The Road,24BNgrtp6Fag4M5BQPEgsV,67
+298,Juice WRLD,Goodbye & Good Riddance,15,Long Gone,17Cs25j5Ui6X6W4Hk1kAyC,65
+299,Juice WRLD,Goodbye & Good Riddance,16,Betrayal - Skit,1p7DC2sFe7aJdO1RZdO3tC,55
+300,Juice WRLD,Goodbye & Good Riddance,17,Karma - Skit,4TlZtoFcV9fKSxs3RVy9Td,55
+301,J Balvin,OASIS,1,MOJAITA,71pEiUWwfDFiRO6RmFpnBf,78
+302,J Balvin,OASIS,2,YO LE LLEGO,0uIfrUwwg0Z7KTitul7E3T,77
+303,J Balvin,OASIS,3,CUIDAO POR AHÍ,6SYSu569pfYdkDT9A5lZqi,75
+304,J Balvin,OASIS,4,QUE PRETENDES,25ZAibhr3bdlMCLmubZDVt,89
+305,J Balvin,OASIS,5,LA CANCIÓN,0fea68AdmYNygeTGI4RC18,93
+306,J Balvin,OASIS,6,UN PESO,7hynhxDoDpgMIV12JuVtNa,81
+307,J Balvin,OASIS,7,ODIO,7alOsNr36sJ8CyOEP4aILq,75
+308,J Balvin,OASIS,8,COMO UN BEBÉ,7knLcYCOSaURD0d7HUULFM,77
+309,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,1,Grace,0pEkK8MqbmGSX7fT8WLMbR,77
+310,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,2,Bruises,4Of7rzpRpV1mWRbhp5rAqG,89
+311,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,3,Hold Me While You Wait,60iSKGrGazRzICtMjADNSM,81
+312,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,4,Someone You Loved,7qEHsqek33rTcFNT9PFqLf,96
+313,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,5,Maybe,5HU2B0yEnvg5EUB8FWeoda,71
+314,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,6,Forever,12OLyHDxt6dqlAybSPFBK3,75
+315,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,7,One,5C1TucCRf4Vjjree1OItyv,75
+316,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,8,Don't Get Me Wrong,4QGHin0gSqzPrPJhPU5gWn,68
+317,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,9,Hollywood,5uGjeXi3epIE8N2ITkxIQ5,72
+318,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,10,Lost On You,6glNKSv2aUtfQhe1SJBZZt,71
+319,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,11,Fade,6r2tV58enH9E8hj2oqoJNK,68
+320,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,12,Headspace,4RtlhOoWNO5ReUwdmTdTcG,66
+321,Tom Walker,What a Time To Be Alive,1,Angels,17moZfj5Aj64AvQSZTQda5,59
+322,Tom Walker,What a Time To Be Alive,2,Leave a Light On,4iVVU8DyQvOVsKafv3KWIF,68
+323,Tom Walker,What a Time To Be Alive,3,Not Giving In,3dv1R3JLvC1ZNhWHKBYDTk,60
+324,Tom Walker,What a Time To Be Alive,4,How Can You Sleep at Night?,2GqmEB1nvaeimGCPiTxiWY,55
+325,Tom Walker,What a Time To Be Alive,5,Now You're Gone (feat. Zara Larsson),2oVoSgGAlog02WQ2pLCxcT,68
+326,Tom Walker,What a Time To Be Alive,6,My Way,5e3vokINVx2oxBaEDPvhig,55
+327,Tom Walker,What a Time To Be Alive,7,Blessings,6yD3n3LtoOPRi3lw1UW5Rx,56
+328,Tom Walker,What a Time To Be Alive,8,Cry Out,6MMeRmARHA1XQ8KE0t8qGY,52
+329,Tom Walker,What a Time To Be Alive,9,Dominoes,5oqRk7bDgrJu2WKWn1M9g9,51
+330,Tom Walker,What a Time To Be Alive,10,Fade Away,2ACoyK6t8MYwWI3G0WTV6r,48
+331,Tom Walker,What a Time To Be Alive,11,Just You and I - Acoustic,1vkUmedJVhScV9MmRsLGSY,68
+332,Tom Walker,What a Time To Be Alive,12,The Show,6eVdSa13MsnpSYeGRDIdJx,52
+333,Tom Walker,What a Time To Be Alive,13,Walk Alone (feat. Tom Walker),3ufz3mIRCz1T84G4sXySk7,53
+334,Tom Walker,What a Time To Be Alive,14,Just You and I,03x2rVJRFUrvwlfxoHd9Mo,71
+335,Westlife,Spectrum,1,Hello My Love,3gGFpZEBUrDT0pGAhStavU,54
+336,Westlife,Spectrum,2,Better Man,34D9vWLSPmxD1c3yx3wUAu,53
+337,Westlife,Spectrum,3,My Blood,0TLy9ayqpf1F6nsqeDQijN,53
+338,Westlife,Spectrum,4,Dynamite,6oJk6XKSuQ2VP1hdC3aYaJ,52
+339,Westlife,Spectrum,5,Dance,1tAa5IIFju43JC1uxEgo97,52
+340,Westlife,Spectrum,6,One Last Time,46t32pQpf5pqxBXCZnD3Sg,53
+341,Westlife,Spectrum,7,Take Me There,7EL8Pbhl62THxZyd6GlqgJ,53
+342,Westlife,Spectrum,8,Repair,3QMTYT5FJqBtXrtPkzgNjJ,57
+343,Westlife,Spectrum,9,Without You,7qVPMW91L6DqrVgjguclvk,52
+344,Westlife,Spectrum,10,L.O.V.E.,1SMmphjWLXwhLy9MigtOuB,52
+345,Westlife,Spectrum,11,Another Life,1j8daMcREb9EXhO4MCfLLA,51
+346,Lady Antebellum,Ocean,1,What If I Never Get Over You,0qkdE1C0ufnUISKwhg8Wh6,67
+347,Lady Antebellum,Ocean,2,Pictures,7BLWdDxt4ex0EZPjfdaclZ,56
+348,Lady Antebellum,Ocean,3,Crazy Love,5VcyXfhkKevhs5KE0ScQI0,59
+349,Lady Antebellum,Ocean,4,You Can Do You,5dKWu8yEy5LBP4qbeWofyq,54
+350,Lady Antebellum,Ocean,5,What I’m Leaving For,2w2H7la1WRX5GSLCdXQDDd,56
+351,Lady Antebellum,Ocean,6,Be Patient With My Love,1yCRV7UIVTuhlDKWnbu7MI,59
+352,Lady Antebellum,Ocean,7,Alright,6kztrxG3HUvtCAFouEQaS4,54
+353,Lady Antebellum,Ocean,8,Let It Be Love,5g8XPVkkoWsE00JEKXzrJ4,54
+354,Lady Antebellum,Ocean,9,On A Night Like This,0MmDFasVJjaZu3p8KlRvRZ,54
+355,Lady Antebellum,Ocean,10,Boots,1rfGnqYVbyWvZWCwylzNZT,55
+356,Lady Antebellum,Ocean,11,The Thing That Wrecks You,6o2P8nIA5PNWggvohN2cjU,54
+357,Lady Antebellum,Ocean,12,Mansion,4anMp1snWhpCRzxWObDzRZ,53
+358,Lady Antebellum,Ocean,13,Ocean,5G6Nf4Ytk3dzxnhfP2AhKR,61
+359,TOOL,Fear Inoculum,1,Fear Inoculum,39zWYYZStDgWi32sOU9AX4,73
+360,TOOL,Fear Inoculum,2,Pneuma,03sEzk1VyrUZSgyhoQR0LZ,72
+361,TOOL,Fear Inoculum,3,Litanie contre la Peur,4qE9yOgBNsARadpZTAb6RH,66
+362,TOOL,Fear Inoculum,4,Invincible,2xKDKtJBLDPd7BF3VmSQQO,71
+363,TOOL,Fear Inoculum,5,Legion Inoculant,48C0O5CXfQdfjUCUhOs1YP,65
+364,TOOL,Fear Inoculum,6,Descending,0aTiUssEOy0Mt69bsavj6K,69
+365,TOOL,Fear Inoculum,7,Culling Voices,3gPxMQWDMSEyPXMtzbcDdQ,66
+366,TOOL,Fear Inoculum,8,Chocolate Chip Trip,3VcEEhf6NL8oq2e1IxFUVM,64
+367,TOOL,Fear Inoculum,9,7empest,0gGfmw4csswZmFPj9YK8GW,70
+368,TOOL,Fear Inoculum,10,Mockingbeat,5aDylkK93g6SvfTPJTXq4L,61
+369,Miranda Lambert,Wildcard,1,White Trash,4mNGnREngXygZbdwHy9Ymp,56
+370,Miranda Lambert,Wildcard,2,Mess with My Head,3pOYCVZaunOdjHaf5LhiV6,56
+371,Miranda Lambert,Wildcard,3,It All Comes Out in the Wash,41FLEFSeRCv19OBn0vLiaH,62
+372,Miranda Lambert,Wildcard,4,Settling Down,53bZYxVbCYm6w1Gx8U64bz,56
+373,Miranda Lambert,Wildcard,5,Holy Water,1donTJoEmUwcjAO3LgZxBN,55
+374,Miranda Lambert,Wildcard,6,Way Too Pretty for Prison (with Maren Morris),6ZShReTf4SiT7LYXnRCks0,56
+375,Miranda Lambert,Wildcard,7,Locomotive,6x1mY23VCOpjiBMD4RIiD0,54
+376,Miranda Lambert,Wildcard,8,Bluebird,0kPeZAyIhIfeZNrtfjJGDB,60
+377,Miranda Lambert,Wildcard,9,How Dare You Love,5qtcOwTDcRlMYlBa2r4qQQ,55
+378,Miranda Lambert,Wildcard,10,Fire Escape,0yOKjGIjYTr61rB7xnE6Xm,55
+379,Miranda Lambert,Wildcard,11,Pretty Bitchin',5IhAJUu8ZEKOezGFaMeEmO,55
+380,Miranda Lambert,Wildcard,12,Tequila Does,2fmHMSaIadDzLPT4Im3Mze,57
+381,Miranda Lambert,Wildcard,13,Track Record,2Z1TiQY4mkYi9CIQPjFpO0,61
+382,Miranda Lambert,Wildcard,14,Dark Bars,6lw1PJUAjUQFuUk7j4OipI,55
+383,Madonna,Madame X (Deluxe),1,Medellín (with Maluma),6mfu6jyFgvnXeTPQrYNs8d,70
+384,Madonna,Madame X (Deluxe),2,Dark Ballet,4fxz9qgPY0L2EWsbmj5N5j,55
+385,Madonna,Madame X (Deluxe),3,God Control,1g1KZTgP2crk4QMOIZXlcA,58
+386,Madonna,Madame X (Deluxe),4,Future (with Quavo),5IQgTY3f8ZeRW8o7cyFMX5,58
+387,Madonna,Madame X (Deluxe),5,Batuka,35skCNkwwEQIgJCSncfbBe,53
+388,Madonna,Madame X (Deluxe),6,Killers Who Are Partying,68vWLW3xY35CHvYS2Sn55Q,52
+389,Madonna,Madame X (Deluxe),7,Crave (with Swae Lee),3DTq6oxUWv20TEKQO9IVF3,58
+390,Madonna,Madame X (Deluxe),8,Crazy,3Y6bCKPrsrKRSo8sg6PuL3,55
+391,Madonna,Madame X (Deluxe),9,Come Alive,6hHPBnTvgBjmJoUowLa23S,52
+392,Madonna,Madame X (Deluxe),10,Extreme Occident,6yUMDlOJja7g0zdEtb6TeP,51
+393,Madonna,Madame X (Deluxe),11,Faz Gostoso (feat. Anitta),2SC14LGDbRWRlyLg9Wupa0,69
+394,Madonna,Madame X (Deluxe),12,Bitch I’m Loca (feat. Maluma),4EoMHVpNZTLVfAIgYzfufZ,56
+395,Madonna,Madame X (Deluxe),13,I Don’t Search I Find,6RwkmsgTmxUK2TziYWqlqL,53
+396,Madonna,Madame X (Deluxe),14,Looking For Mercy,1MyVadO3ei1DGHVbDowQGv,51
+397,Madonna,Madame X (Deluxe),15,I Rise,7utnsT1Zjty7H3sO46vpt8,53
+398,"Tyler, The Creator",IGOR,1,IGOR'S THEME,51RN0kzWd7xeR4th5HsEtW,71
+399,"Tyler, The Creator",IGOR,2,EARFQUAKE,5hVghJ4KaYES3BFUATCYn0,85
+400,"Tyler, The Creator",IGOR,3,I THINK,4f8Mh5wuWHOsfXtzjrJB3t,77
+401,"Tyler, The Creator",IGOR,4,EXACTLY WHAT YOU RUN FROM YOU END UP CHASING,5e4LIAQI0bClLazNf2gZV0,7
+402,"Tyler, The Creator",IGOR,5,RUNNING OUT OF TIME,5QvBXUm5MglLJ3iBfTX2Wo,73
+403,"Tyler, The Creator",IGOR,6,NEW MAGIC WAND,0fv2KH6hac06J86hBUTcSf,73
+404,"Tyler, The Creator",IGOR,7,A BOY IS A GUN*,1nXZnTALNXiPlvXotqHm66,74
+405,"Tyler, The Creator",IGOR,8,PUPPET,0wEC0GNF74lAqrEFZJMl1m,70
+406,"Tyler, The Creator",IGOR,9,WHAT'S GOOD,6bOkaEXc5CopinGazSLokx,70
+407,"Tyler, The Creator",IGOR,10,"GONE, GONE / THANK YOU",1hz7SRTGUNAtIQ46qiNv2p,73
+408,"Tyler, The Creator",IGOR,11,I DON'T LOVE YOU ANYMORE,5A0M6B0RBSXSNWv0wcppZ9,68
+409,"Tyler, The Creator",IGOR,12,ARE WE STILL FRIENDS?,5TxRUOsGeWeRl3xOML59Ai,70
+410,Logic,Confessions of a Dangerous Mind,1,Confessions of a Dangerous Mind,6yIGZp1AaFBoDczu3b4hVU,71
+411,Logic,Confessions of a Dangerous Mind,2,Homicide (feat. Eminem),7M2tXmeS15NAzEn7ABFeBg,78
+412,Logic,Confessions of a Dangerous Mind,3,Wannabe,3ur6bQ6Jb17tskma4euqZd,62
+413,Logic,Confessions of a Dangerous Mind,4,clickbait,2i3D8AJiOYTVCkIu1cOpsH,63
+414,Logic,Confessions of a Dangerous Mind,5,Mama/Show Love (feat. YBN Cordae),760VYgBLbNyEJp4jLa0CZ6,66
+415,Logic,Confessions of a Dangerous Mind,6,Out Of Sight,15qVraQOI2EjZPPM05YGBS,63
+416,Logic,Confessions of a Dangerous Mind,7,Pardon My Ego,6H35Djes2GNU7shF0c822Y,62
+417,Logic,Confessions of a Dangerous Mind,8,COMMANDO (feat. G-Eazy),4p28KkjAQ16J3yF8PQHJVg,65
+418,Logic,Confessions of a Dangerous Mind,9,Icy (feat. Gucci Mane),2FzgbCcszptrQpdJOr2Soi,70
+419,Logic,Confessions of a Dangerous Mind,10,Still Ballin (feat. Wiz Khalifa),199Dz9IgqKekyiRy3LBnHn,66
+420,Logic,Confessions of a Dangerous Mind,11,Cocaine,6P9RfMi5rmtu6CmBVZSCAP,63
+421,Logic,Confessions of a Dangerous Mind,12,Limitless,20EmzsRBgZSEVbZWp0fqtx,63
+422,Logic,Confessions of a Dangerous Mind,13,Keanu Reeves,3PYx9Wte3jwb48V0wArMOy,78
+423,Logic,Confessions of a Dangerous Mind,14,Don't Be Afraid To Be Different (feat. Will Smith),4jdLb7N6U6tmyynmu6PPRM,59
+424,Logic,Confessions of a Dangerous Mind,15,BOBBY (feat. My Dad),2K2b3pVT5LLDxzz1Vy4bHb,61
+425,Logic,Confessions of a Dangerous Mind,16,Lost In Translation,4Tk9QvtwwOj2Ah9E8ahutZ,63
+426,P!nk,Hurts 2B Human,1,Hustle,6BVmygBQhe4pTZQgKkzstD,64
+427,P!nk,Hurts 2B Human,2,(Hey Why) Miss You Sometime,0l6lfl4PcrbPmBE08I6zp2,60
+428,P!nk,Hurts 2B Human,3,Walk Me Home,2N9bw4i7YitdN2LDDhMmpe,65
+429,P!nk,Hurts 2B Human,4,My Attic,6nRMtv1fSqT16RqxM4Xh8H,56
+430,P!nk,Hurts 2B Human,5,90 Days (feat. Wrabel),0mknlibAARXVk3d8pafTUg,65
+431,P!nk,Hurts 2B Human,6,Hurts 2B Human (feat. Khalid),6G28azuVVwYBOmmkGPQFa3,61
+432,P!nk,Hurts 2B Human,7,Can We Pretend (feat. Cash Cash),68t9p1qXaslaaxk4xhTd4m,68
+433,P!nk,Hurts 2B Human,8,Courage,5v0YtR9YIeAf0NoG0V1982,57
+434,P!nk,Hurts 2B Human,9,Happy,6xG7t7blddozpBf3S5we1O,61
+435,P!nk,Hurts 2B Human,10,We Could Have It All,2MGm3sknsqRwDwQVUGSJZo,55
+436,P!nk,Hurts 2B Human,11,Love Me Anyway (feat. Chris Stapleton),0pwdJLLVxlJa1lnR9UeMZY,67
+437,P!nk,Hurts 2B Human,12,Circle Game,0kjarPlpe1PpBJskSaEDwT,59
+438,P!nk,Hurts 2B Human,13,The Last Song Of Your Life,5pxZaep4BX0wLn4BYnfTgE,53
+439,Vampire Weekend,Father of the Bride,1,Hold You Now (feat. Danielle Haim),15E2P2ToSLNnZvcOEQra6a,61
+440,Vampire Weekend,Father of the Bride,2,Harmony Hall,39exKIvycQDgs4T6uXdyu0,71
+441,Vampire Weekend,Father of the Bride,3,Bambina,528bxUV84T4T8HHBFSpcaV,62
+442,Vampire Weekend,Father of the Bride,4,This Life,4dRqYKhLVujxiBXcq50YzG,72
+443,Vampire Weekend,Father of the Bride,5,Big Blue,3VORkvig6GJheAu4x3I3oC,60
+444,Vampire Weekend,Father of the Bride,6,How Long?,5jd6XPyXSY4jQVG3SlXP1b,60
+445,Vampire Weekend,Father of the Bride,7,Unbearably White,2FjoCQaBoiEKs3FCvD0HkR,63
+446,Vampire Weekend,Father of the Bride,8,Rich Man,2WaaqcSdsLliuWTnmY4rLC,58
+447,Vampire Weekend,Father of the Bride,9,Married in a Gold Rush (feat. Danielle Haim),4Ww4jdVXTyvSnryNTtReRJ,58
+448,Vampire Weekend,Father of the Bride,10,My Mistake,2G5ZpNvgSOOcBCpLcOfvJy,54
+449,Vampire Weekend,Father of the Bride,11,Sympathy,2YegRTu9IjiUg4VWfnXyM3,58
+450,Vampire Weekend,Father of the Bride,12,Sunflower (feat. Steve Lacy),53KFMdxzi8IJDewiql1Qo3,67
+451,Vampire Weekend,Father of the Bride,13,Flower Moon (feat. Steve Lacy),3ujuDsiyBLAXAB6dtNwpGu,60
+452,Vampire Weekend,Father of the Bride,14,2021,6UryEVkqPDLliZOG4UmFi9,61
+453,Vampire Weekend,Father of the Bride,15,We Belong Together (feat. Danielle Haim),1MkiAWVcbxZ7NzMuAuWqJS,54
+454,Vampire Weekend,Father of the Bride,16,Stranger,5c2fEICoqVYuTjAGEieB2F,55
+455,Vampire Weekend,Father of the Bride,17,Spring Snow,1ze0Z3ZnIDITxj13NRok4z,52
+456,Vampire Weekend,Father of the Bride,18,"Jerusalem, New York, Berlin",7lQgoAWAFAo0XW7dW2TL1y,61
+457,Thomas Rhett,Center Point Road,1,Up,2aXXhuiXh0OcpyZVFJthCg,57
+458,Thomas Rhett,Center Point Road,2,Don’t Threaten Me With A Good Time,0UsEU29nx7wcyNEsGIA6qc,56
+459,Thomas Rhett,Center Point Road,3,Blessed,3hhSnbFhuGnXieFa1ql61R,67
+460,Thomas Rhett,Center Point Road,4,Look What God Gave Her,2KqJC0koTBUyDlsMt5ok1V,77
+461,Thomas Rhett,Center Point Road,5,Center Point Road,7p9zIciejn8GXnsRdG9EQR,64
+462,Thomas Rhett,Center Point Road,6,That Old Truck,0kjnvAqQvdjN69aDTGlceq,62
+463,Thomas Rhett,Center Point Road,7,VHS,5hsnjHTK4f3DlVHWOUHYC2,54
+464,Thomas Rhett,Center Point Road,8,Notice,6YviFs2g3bKgqCTq4CFWAm,67
+465,Thomas Rhett,Center Point Road,9,Sand,0MPP9NPe5C7dBCdXyRB9ie,54
+466,Thomas Rhett,Center Point Road,10,Beer Can’t Fix,7idmHTAQQPUFqdjXkoooXD,66
+467,Thomas Rhett,Center Point Road,11,Things You Do For Love,7ycXmXGCFOexpvlIaAgiga,55
+468,Thomas Rhett,Center Point Road,12,Remember You Young,3LK6wDkhbTyg8GhJidU9oC,75
+469,Thomas Rhett,Center Point Road,13,Don’t Stop Drivin’,6FwNBb0kdxiKYLJR1cfZu1,55
+470,Thomas Rhett,Center Point Road,14,Barefoot,6ryhhSGlWOJe7ypTXWdCLG,53
+471,Thomas Rhett,Center Point Road,15,Dream You Never Had,1HGhRqBz4D53D6VwOlBtCu,54
+472,Thomas Rhett,Center Point Road,16,Almost,0CKt2RA2gYQqUKejm0Rq0m,58
+473,NF,The Search,1,The Search,3oLe5ZILASG8vU5dxIMfLY,75
+474,NF,The Search,2,Leave Me Alone,3EtyEzMpfKSaoVhPunvbRV,77
+475,NF,The Search,3,Change,4cBlIM5AjnQ74f52Dv7T5K,74
+476,NF,The Search,4,My Stress,0aQA9DP54h37OevE7hRc2a,74
+477,NF,The Search,5,Nate,1SDtZ69uALD5zW8k9S8hTf,72
+478,NF,The Search,6,Time,6MxMqCgqmekcr0VwSU7AVH,79
+479,NF,The Search,7,Returns,2uEuo87JC9tc1dzmPUtOxj,71
+480,NF,The Search,8,When I Grow Up,5rLyYxZNzca00ENADO9m54,74
+481,NF,The Search,9,Only,5lehoWkVPujeOAwb8BO0uK,74
+482,NF,The Search,10,Let Me Go,2PqSOrlabozEH6KXs7BvQr,71
+483,NF,The Search,11,-Interlude-,4NAOU1fKvpPtLwtR2rUfFP,64
+484,NF,The Search,12,Hate Myself,5PdEiev2BkKiZtZFcNKjfM,73
+485,NF,The Search,13,I Miss The Days,3ebfDw8WEbf0DxGh47R2lo,72
+486,NF,The Search,14,No Excuses,7ssFG94tZHpX9vbIFM0GVH,70
+487,NF,The Search,15,Like This,5b1uZnebDRcR8XuBsDTPiO,70
+488,NF,The Search,16,Options,1Q3HtTFGxjmEljAw7Y0CaR,70
+489,NF,The Search,17,WHY,7yNgSAuwbDJcdRNrBDtKPq,70
+490,NF,The Search,18,Thinking,4KIIzdrFS4U21IeaMTATDi,68
+491,NF,The Search,19,Trauma,0cHAXbQfTlBIJrzIOW8kUv,70
+492,NF,The Search,20,Time - Edit,1gZFRYcPz3wKevEaNYRwfW,77
+493,SuperM,SuperM - The 1st Mini Album,1,Jopping,5WrEilrRI5cIW0DxMvQYPZ,80
+494,SuperM,SuperM - The 1st Mini Album,2,I Can't Stand The Rain,0ls2ZkYJcDBVLZGvtzp4Qc,69
+495,SuperM,SuperM - The 1st Mini Album,3,2 Fast,5U3DWGGD8mFYcDhoMxpQPD,66
+496,SuperM,SuperM - The 1st Mini Album,4,Super Car,3PqUAwpVHXr3GOCAL22mfo,68
+497,SuperM,SuperM - The 1st Mini Album,5,No Manners,3dJecOICXVH0e9oDU6wDyN,67
+498,SuperM,SuperM - The 1st Mini Album,6,Jopping - Instrumental,1hzldmpJRCLQ9X2mmKt5p6,56
+499,SuperM,SuperM - The 1st Mini Album,7,I Can't Stand The Rain - Instrumental,20T1LexVZKEIM2zmLbZyvd,54
+500,Slipknot,We Are Not Your Kind,1,Insert Coin,5Oca13ac6cZ0hwZAs1SXse,61
+501,Slipknot,We Are Not Your Kind,2,Unsainted,5mpUKTdskZea0gStWzeHUZ,78
+502,Slipknot,We Are Not Your Kind,3,Birth Of The Cruel,7I6p0xNYahHpUUXj785URX,67
+503,Slipknot,We Are Not Your Kind,4,Death Because of Death,2YkDmUfSC7bZpH3DHvvuxh,61
+504,Slipknot,We Are Not Your Kind,5,Nero Forte,56fiFTRrSiHHH3gBeaTg2P,73
+505,Slipknot,We Are Not Your Kind,6,Critical Darling,3XFaGEb6daqdj39ThpJ2XI,67
+506,Slipknot,We Are Not Your Kind,7,A Liar's Funeral,4wOgNWU6Y6mixNZcimJqDv,63
+507,Slipknot,We Are Not Your Kind,8,Red Flag,4SsgF844NGbl7UFcymqWKy,64
+508,Slipknot,We Are Not Your Kind,9,What's Next,5Alg8C9HBdmTqzo6n3Itvn,59
+509,Slipknot,We Are Not Your Kind,10,Spiders,3ViTZxW9satrTEMRu1GCLV,63
+510,Slipknot,We Are Not Your Kind,11,Orphan,0ipTpoDQ06S5iI4RRQFQjx,64
+511,Slipknot,We Are Not Your Kind,12,My Pain,1ZGOCNA6FyUWENWHYhjEzl,59
+512,Slipknot,We Are Not Your Kind,13,Not Long for This World,06AojtTNdRQ1fB80VbB1g2,62
+513,Slipknot,We Are Not Your Kind,14,Solway Firth,6WCkyaVmut83CtBFEUhDo4,70
+514,Hozier,"Wasteland, Baby!",1,Nina Cried Power (feat. Mavis Staples),4rcSvYi807urIIqfeX3tBo,61
+515,Hozier,"Wasteland, Baby!",2,Almost (Sweet Music),5Apvsk0suoivI1H8CmBglv,76
+516,Hozier,"Wasteland, Baby!",3,Movement,1djzKW3eYLyzjjHXazEWWh,70
+517,Hozier,"Wasteland, Baby!",4,No Plan,4byXh93siQtzKLdjKuJaAF,62
+518,Hozier,"Wasteland, Baby!",5,Nobody,69WkwzVjQS4Dc8QQtpz0qM,61
+519,Hozier,"Wasteland, Baby!",6,To Noise Making (Sing),5in02YJDTkdfKDQjfsvxYp,61
+520,Hozier,"Wasteland, Baby!",7,As It Was,4xEHlCgoKd4RdrS79OPn9y,60
+521,Hozier,"Wasteland, Baby!",8,Shrike,083PU4XnYAOMAGVruma3vb,66
+522,Hozier,"Wasteland, Baby!",9,Talk,6ctlpLPyLH3R1V16fxoOWE,61
+523,Hozier,"Wasteland, Baby!",10,Be,7hfi4ZTfV7akmGINh6qYCF,60
+524,Hozier,"Wasteland, Baby!",11,Dinner & Diatribes,5tCtCqWcXBf7eoIunSxlO8,61
+525,Hozier,"Wasteland, Baby!",12,Would That I,37zuIvk4KBkAxxLJsxJaHq,63
+526,Hozier,"Wasteland, Baby!",13,Sunlight,4zvvvHm0b5CBl37tocxm7n,61
+527,Hozier,"Wasteland, Baby!",14,"Wasteland, Baby!",1HYnjKqSSHh1tdl2Hi57zH,64
+528,Dreamville,Revenge Of The Dreamers III,1,Under The Sun (with J. Cole & Lute feat. DaBaby),6MF4tRr5lU8qok8IKaFOBE,80
+529,Dreamville,Revenge Of The Dreamers III,2,"Down Bad (feat. JID, Bas, J. Cole, EARTHGANG & Young Nudy)",36J0iaPDGbYGsHvYpaYs3k,77
+530,Dreamville,Revenge Of The Dreamers III,3,LamboTruck (with Cozz feat. REASON & Childish Major),1OS9fNE87zO4Z696lBXriv,64
+531,Dreamville,Revenge Of The Dreamers III,4,"Swivel (with EARTHGANG) - From The Upcoming Album ""Mirrorland""",03XfngWwNfhEjrnEga73Rg,63
+532,Dreamville,Revenge Of The Dreamers III,5,"Oh Wow...Swerve (with J. Cole feat. Zoink Gang, KEY! & Maxo Kream)",7wxDKfgFtRTbupcG4xDhtj,64
+533,Dreamville,Revenge Of The Dreamers III,6,"Don't Hit Me Right Now (with Bas & Cozz feat. Yung Baby Tate, Guapdad 4000 & Buddy)",4ChD9wq9iakg5UdeSzmgPE,64
+534,Dreamville,Revenge Of The Dreamers III,7,Wells Fargo (with JID & EARTHGANG feat. Buddy & Guapdad 4000) - Interlude,2gtFMLjQpCTGekMi4oXZxN,69
+535,Dreamville,Revenge Of The Dreamers III,8,Sleep Deprived (with Lute & Omen feat. Mez & DaVionne),6n3q5ybuUQFT97ddyuxsFh,64
+536,Dreamville,Revenge Of The Dreamers III,9,Self Love (with Ari Lennox & Bas feat. Baby Rose),7dnSXaCjLdFiWZa8s5wP1n,65
+537,Dreamville,Revenge Of The Dreamers III,10,"Ladies, Ladies, Ladies (with JID feat. T.I.)",3QBnJDkME3teXvf52Sfslk,64
+538,Dreamville,Revenge Of The Dreamers III,11,"Costa Rica (with Bas & JID feat. Guapdad 4000, Reese LAFLARE, Jace, Mez, Smokepurpp, Buddy & Ski Mask The Slump God)",5WnfnSpuNEGXyEt78PBA6d,80
+539,Dreamville,Revenge Of The Dreamers III,12,"1993 (with J. Cole, JID, Cozz & EARTHGANG feat. Smino & Buddy)",1KbCc89SxYma4BnBChkJBs,66
+540,Dreamville,Revenge Of The Dreamers III,13,Rembrandt...Run It Back (with JID & J. Cole feat. Vince Staples),2DjLLLV2r88a8TO0hVTVrS,63
+541,Dreamville,Revenge Of The Dreamers III,14,Sunset (with J. Cole feat. Young Nudy),3pZO6GoVPeSYDxxsH6vCdj,70
+542,Dreamville,Revenge Of The Dreamers III,15,Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy),4nw0S8MtvcLSpXCS9M8ciL,74
+543,Dreamville,Revenge Of The Dreamers III,16,MIDDLE CHILD,2b5scDVCDxVsLalecDLAo2,61
+544,Dreamville,Revenge Of The Dreamers III,17,"PTSD (with Omen feat. Mereba, Deante' Hitchcock & St. Beauty)",5KUciA17ZXudpvWAc3mLHs,60
+545,Dreamville,Revenge Of The Dreamers III,18,Sacrifices (with EARTHGANG & J. Cole feat. Smino & Saba),7wTA0NKIm6T7nP2kaymU2a,72
+546,Bryan Adams,Shine A Light,1,Shine A Light,5Op9PcisNc0oGnS4dysmbu,54
+547,Bryan Adams,Shine A Light,2,That’s How Strong Our Love Is,0ulowZLPw2b7Y5D4iOpyIr,46
+548,Bryan Adams,Shine A Light,3,"Part Friday Night, Part Sunday Morning",2R26TTA5lF2rw26SY4DIaZ,45
+549,Bryan Adams,Shine A Light,4,Driving Under The Influence Of Love,5VeJgtWmwpzhTkPPbO0jrD,43
+550,Bryan Adams,Shine A Light,5,All Or Nothing,0KcmruzlIbN7S3U71heYU7,45
+551,Bryan Adams,Shine A Light,6,No Time For Love,6nUC2Uvaggfk8P4w85TfGL,43
+552,Bryan Adams,Shine A Light,7,I Could Get Used To This,7BnhpoLXwI5ApsTGCOnIHI,43
+553,Bryan Adams,Shine A Light,8,Talk To Me,5rVAxn5Vxgu1Au9z1wWRAz,43
+554,Bryan Adams,Shine A Light,9,The Last Night On Earth,1qKub3rN0rEFu8YinP6497,43
+555,Bryan Adams,Shine A Light,10,Nobody’s Girl,32LyLbterLHDDNOrsPHZ1Z,42
+556,Bryan Adams,Shine A Light,11,Don’t Look Back,0Ld0d1Y0NNes6WtJ3iejU8,43
+557,Bryan Adams,Shine A Light,12,Whiskey In The Jar,5IjcZB2ulQYI9fOzsK7YVr,45
+558,Backstreet Boys,DNA,1,Don't Go Breaking My Heart,1E3ghCAkxEdT5KHVBwArr3,57
+559,Backstreet Boys,DNA,2,Nobody Else,2iK6RzhARWY8A6YlYPYksZ,55
+560,Backstreet Boys,DNA,3,Breathe,5QQKkakSDzALyAO0GmxzJ6,52
+561,Backstreet Boys,DNA,4,New Love,5KFceiKcXDIXfGwv33fjWc,55
+562,Backstreet Boys,DNA,5,Passionate,2TAZgy6a9ZL2jEFPvzN91i,55
+563,Backstreet Boys,DNA,6,Is It Just Me,7dEztoOcmsafZLM2GSPbna,54
+564,Backstreet Boys,DNA,7,Chances,1D0suElatoKurOqJBol7JV,57
+565,Backstreet Boys,DNA,8,No Place,4sHjA9mrxPE5J58LkJyPDO,62
+566,Backstreet Boys,DNA,9,Chateau,2yedRoI0ixMxQSyHE0q1Jq,54
+567,Backstreet Boys,DNA,10,The Way It Was,6xBmy4aV5qQvoeP8R9ned9,54
+568,Backstreet Boys,DNA,11,Just Like You Like It,6aiPCXgBPxlGvOQjyJaGrx,53
+569,Backstreet Boys,DNA,12,OK,4imGMWOcc7VPhFJV0HxW3R,53
+570,Carly Rae Jepsen,Dedicated,1,Julien,3NNTVLeuYUGWsCTAxMNzdw,40
+571,Carly Rae Jepsen,Dedicated,2,No Drug Like Me,7ieJUN4W9DF7zHJD8iHGDJ,37
+572,Carly Rae Jepsen,Dedicated,3,Now That I Found You,33dIG1MOzoUVgiMm0UQSgm,42
+573,Carly Rae Jepsen,Dedicated,4,Want You In My Room,2wDL38wQrMzed4yNyXa8q2,40
+574,Carly Rae Jepsen,Dedicated,5,Everything He Needs,4NPfq7vvHnIkf6ozcVxv7q,33
+575,Carly Rae Jepsen,Dedicated,6,Happy Not Knowing,3lVr0PAeoEgDogOMCZ9ID7,34
+576,Carly Rae Jepsen,Dedicated,7,I'll Be Your Girl,6EUVNYKRJKjnggJSxMOsHU,31
+577,Carly Rae Jepsen,Dedicated,8,Too Much,0DW2IvEdL1qOPgwuhZjzXu,47
+578,Carly Rae Jepsen,Dedicated,9,The Sound,4Q6QxfGaQFF2rZoyzsg0sR,32
+579,Carly Rae Jepsen,Dedicated,10,Automatically In Love,1a9OLucyHv96HMpbh50XVc,32
+580,Carly Rae Jepsen,Dedicated,11,Feels Right,39UEe541jS0RVwE6D9Nh3j,33
+581,Carly Rae Jepsen,Dedicated,12,Right Words Wrong Time,3OeRHXvkX8GaMP54hcVlEm,31
+582,Carly Rae Jepsen,Dedicated,13,Real Love,4vH19H4DpYLzVJD7SiYfzX,32
+583,Carly Rae Jepsen,Dedicated,14,For Sure,6MJQ8Er8SX1cacmTW5AVe9,31
+584,Carly Rae Jepsen,Dedicated,15,Party For One,6M6M9Hc0MhBn36yswsPTbd,46
+585,American Football,American Football (LP3),1,Silhouettes,0UNYe8hW45WCqrTOXylPY6,44
+586,American Football,American Football (LP3),2,Every Wave To Ever Rise (feat. Elizabeth Powell),143HQnW8tYRwkqDEL2SJpx,39
+587,American Football,American Football (LP3),3,Uncomfortably Numb (feat. Hayley Williams),03k5XShK3FRSfDJq1zvYsB,50
+588,American Football,American Football (LP3),4,Heir Apparent,1IslZs9FYFhwH7mQ9C0Yt0,38
+589,American Football,American Football (LP3),5,Doom In Full Bloom,1Huw5CJAw3eBPUIqpjcYQj,36
+590,American Football,American Football (LP3),6,I Can't Feel You (feat. Rachel Goswell),3ItJYqkJnc2QygOyt1wk5y,35
+591,American Football,American Football (LP3),7,Mine To Miss,2txHuVrbEXEQ8LrZx4vIes,34
+592,American Football,American Football (LP3),8,Life Support,7CS0pEg5T1NLzMVyOo7Uad,33
+593,Angel Olsen,All Mirrors,1,Lark,13rEyddPoVpxXWWv2aTjqo,60
+594,Angel Olsen,All Mirrors,2,All Mirrors,5Zcry3zaBmgJrtQ78XEJQf,61
+595,Angel Olsen,All Mirrors,3,Too Easy,7kFiu7h1Dlbx4DjQznA5MJ,56
+596,Angel Olsen,All Mirrors,4,New Love Cassette,4SsWVvNKAHJP1T2bP6d2ut,63
+597,Angel Olsen,All Mirrors,5,Spring,0jTPjP9WuUcNMhgfwdK9np,58
+598,Angel Olsen,All Mirrors,6,What It Is,5KUEcs3C38RfOdiDQNclTk,57
+599,Angel Olsen,All Mirrors,7,Impasse,5I5AhylroXKC0ggLMdTRgl,54
+600,Angel Olsen,All Mirrors,8,Tonight,35cBgI0peRDZhmRGHVfqZb,54
+601,Angel Olsen,All Mirrors,9,Summer,3pnbP5m1OP0ZDmVR0bAY4l,53
+602,Angel Olsen,All Mirrors,10,Endgame,3OL2ngf19YzNjsTPgwkPDp,53
+603,Angel Olsen,All Mirrors,11,Chance,7opNeF3sAdxQH6Qu6P8p6p,55
+604,The Black Keys,"""Let's Rock""",1,Shine A Little Light,365TSrFPqM66giaxJuafR3,64
+605,The Black Keys,"""Let's Rock""",2,Eagle Birds,7Dd1v8u05vTL3py8d1a5ZA,63
+606,The Black Keys,"""Let's Rock""",3,Lo/Hi,25YlltWXRb9k7KbrEBRuhJ,68
+607,The Black Keys,"""Let's Rock""",4,Walk Across The Water,5AEyKKiz6YPTLR7EDFLqMS,63
+608,The Black Keys,"""Let's Rock""",5,Tell Me Lies,2scIG4pnqvCStKHTZiWB0V,60
+609,The Black Keys,"""Let's Rock""",6,Every Little Thing,4l8f1sX5rJyUphT1PfG98v,58
+610,The Black Keys,"""Let's Rock""",7,Get Yourself Together,4AjBIRQNZDDVB0MrGlQHvB,58
+611,The Black Keys,"""Let's Rock""",8,Sit Around And Miss You,4yBxXm4dDL00YGdO5G9ubK,57
+612,The Black Keys,"""Let's Rock""",9,Go,2GuXIMRlaxVLcU0a5jacHw,65
+613,The Black Keys,"""Let's Rock""",10,Breaking Down,4s7DGDyfSty3AS71Xrtt1D,56
+614,The Black Keys,"""Let's Rock""",11,Under The Gun,7cO2S4l7b9Rtn5MqPHXTJU,56
+615,The Black Keys,"""Let's Rock""",12,Fire Walk With Me,0UfkJ92b6D2CLHygzn8C6k,57
